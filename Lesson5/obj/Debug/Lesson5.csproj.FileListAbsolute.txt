@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
+C:\Users\opilane\Desktop\Lesson5\Lesson5\bin\Debug\Lesson5.exe
+C:\Users\opilane\Desktop\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
+C:\Users\opilane\Desktop\Lesson5\Lesson5\obj\Debug\Lesson5.csprojResolveAssemblyReference.cache
+C:\Users\opilane\Desktop\Lesson5\Lesson5\obj\Debug\Lesson5.exe
+C:\Users\opilane\Desktop\Lesson5\Lesson5\obj\Debug\Lesson5.pdb
